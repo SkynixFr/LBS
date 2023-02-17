@@ -6,7 +6,7 @@
     "illuminate/database": "^6.0",
     "guzzlehttp/guzzle": "^6.4.0",
     "fzaninotto/faker": "^1.8",
-    "firebase/php-jwt": "^5.0",
+    "firebase/php-jwt": "^6.0",
     "davidepastore/slim-validation": "^0.5"
   },
   "autoload": {
